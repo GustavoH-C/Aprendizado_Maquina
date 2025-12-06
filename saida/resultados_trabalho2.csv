@@ -1,0 +1,2 @@
+Experimento,Best Params,Acuracia,F1_Weighted
+Classificacao Otimizada (Trab 2),"{'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'subsample': 1.0}",0.3308888888888889,0.32841895956394246
